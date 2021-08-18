@@ -1,0 +1,6 @@
+dominio\Conexion.class
+dominio\Persona.class
+dominio\validar.class
+controlador\ServletRegistro.class
+controlador\Controlador.class
+dominio\PersonaDaoImpl.class
